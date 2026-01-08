@@ -1,4 +1,4 @@
-# Short-Term-Air-Pollution-Gtha-Analysis
+# Short-Term-Air-Pollution-GTHA-Analysis
 
 ## Overview
 
